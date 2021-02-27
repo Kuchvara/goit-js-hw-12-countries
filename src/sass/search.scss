@@ -1,0 +1,43 @@
+.search-container {
+  text-align: center;
+}
+
+.title {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.search-input {
+  height: 35px;
+  margin: 10px;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: #dfdcdb;
+
+  font-size: 1rem;
+  font-weight: 700;
+
+  &::placeholder {
+    opacity: 0.9;
+    font-weight: 500;
+  }
+}
+
+.country-section {
+  text-align: center;
+}
+
+.languages-list {
+  display: contents;
+}
+
+.button {
+  width: 120px;
+  height: 35px;
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: center;
+  color: rgb(27, 26, 26);
+  border-radius: 50px;
+  cursor: pointer;
+}
