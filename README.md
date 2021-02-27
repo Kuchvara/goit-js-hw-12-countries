@@ -1,1 +1,1 @@
-https://github.com/Kuchvara/goit-js-hw-12-countries
+https://kuchvara.github.io/goit-js-hw-12-countries/
